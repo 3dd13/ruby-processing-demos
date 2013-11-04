@@ -4,7 +4,7 @@ class RubyProcessingTree < Processing::App
   MAX_LEVEL = 7
 
   def setup
-    size 800, 600
+    size 800, 400
   end
   
   def draw
